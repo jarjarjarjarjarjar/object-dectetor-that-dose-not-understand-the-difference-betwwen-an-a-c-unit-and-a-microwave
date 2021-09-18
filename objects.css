@@ -1,0 +1,33 @@
+#object_heading
+{
+    width: 100%;
+    background-color:cyan;
+    font-size: 23px;
+    margin: 0px;
+    background-size: 10px;
+}
+
+#back
+{
+    float: left;
+    height: 26px;
+    background-color: red;
+    border: solid red;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#object
+{
+    border-radius: 5px;
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+}
